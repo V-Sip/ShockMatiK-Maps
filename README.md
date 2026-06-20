@@ -45,3 +45,5 @@ Základní balíček obsahující nejznámější české okruhy a autokrosové 
 ---
 
 *Chybí vám zde vaše domovská trať? Pošlete požadavek na support@shockmatik.com!*
+
+*Ortofotografické snímky czech_maps.mbtiles © Český úřad zeměměřický a katastrální*
