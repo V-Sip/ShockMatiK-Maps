@@ -40,7 +40,7 @@ Základní balíček obsahující nejznámější české okruhy a autokrosové 
 
 | Soubor | Odhadovaná velikost | Ke stažení |
 | :--- | :---: | :--- |
-| `czech_tracks.mbtiles` | *~ 537 MB* | [⬇️ Stáhnout balíček](https://github.com/V-Sip/ShockMatiK-Maps/releases/download/map-database/czech_tracks.mbtiles) |
+| `czech_tracks.mbtiles` | *~537 MB* | [⬇️ Stáhnout balíček](https://github.com/V-Sip/ShockMatiK-Maps/releases/download/map-database/czech_tracks.mbtiles) |
 
 ---
 
