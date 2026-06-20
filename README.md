@@ -38,7 +38,7 @@ Základní balíček obsahující nejznámější české okruhy a autokrosové 
 * Třinec - STEEL RING
 * Česká Lípa - Autodrom Sosnová
 
-| Soubor | Odhadovaná velikost | Ke stažení |
+| Soubor | Velikost | Ke stažení |
 | :--- | :---: | :--- |
 | `czech_tracks.mbtiles` | *~537 MB* | [⬇️ Stáhnout balíček](https://github.com/V-Sip/ShockMatiK-Maps/releases/download/map-database/czech_tracks.mbtiles) |
 
